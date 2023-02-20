@@ -3,14 +3,14 @@
  * main - code goes in here
  * Return: Returning 0
  */
-init main(void)
+int main(void)
 {
 	int i;
 
 	for (i = 0 ; i <= 9 ; i++)
 	{
-		putchar(i)
+		printf("%d", i);
 	}
-	putchar('\n');
+	printf("\n");
 	return (0);
 }
