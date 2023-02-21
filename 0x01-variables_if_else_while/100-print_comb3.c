@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  * main - code goes here
  * Return: returning 0
@@ -25,6 +24,7 @@ int main(void)
 					putchar(',');
 				}
 			}
+			
 			c++
 		}
 		d++
